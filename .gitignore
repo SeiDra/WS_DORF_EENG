@@ -1,0 +1,6 @@
+# Fichiers de variables d'environnement
+.env
+
+# Dossiers d'environnements virtuels Python
+.venv/
+venv/
